@@ -1,0 +1,9 @@
+{
+  "label": "Resources 📚",
+  "link": {
+    "type": "generated-index",
+    "description": "Lihat semua sumber daya yang digunakan dalam pengembangan QuranDB"
+  },
+  "collapsed": false,
+  "collapsible": true
+}
