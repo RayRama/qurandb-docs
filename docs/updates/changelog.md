@@ -11,7 +11,7 @@ title: Release Notes 📝
 - Implementasi state management menggunakan [jotai](https://jotai.org)
 - Menambahkan fungsi untuk mengecek lebar layar
 - Membuat website dokumentasi secara terpisah
-- Menambahkan dialog component [radix-ui](radix-ui.com)
+- Menambahkan dialog component [radix-ui](https://radix-ui.com)
 - Menambahkan beberapa custom hook
 - Menyimpan data hasil ringkasan ke dalam local storage
 
